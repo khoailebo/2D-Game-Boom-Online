@@ -1,0 +1,36 @@
+
+
+Version:	3.50
+CmdLine:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\boom_online.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\jre\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\jre\bin\javaw.exe
+Launcher args:	-jar "D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\client_maven_update.jar"
+Args length:	79/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\boom_online.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jre
+Check launcher:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\jre\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\jre\bin\javaw.exe
+Launcher args:	-jar "D:\OneDrive - ptit.edu.vn\java\BTLLTM\client_exe\boom_online.exe"
+Args length:	71/32768 chars
+Exit code:	0
